@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![LinkedIn Badge](https://img.shields.io/badge/linkedin--%2300EBEB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-marins-43298295/)
 <!--
 **PabloMarins/PabloMarins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

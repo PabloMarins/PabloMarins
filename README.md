@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+Code lover,
+  code learner.
+  
+  - 🔭 I’m currently working on self projects HTML, CSS, JavaScript and Node.Js based.
+  - 🌱 I’m currently learning Jquery, Bootstrap, Mongo Db, React Js, Vue.js  e Electron.
+  - ⚡ Interested in technologies and Javascript frameworks. 
+  - 📫 How to reach me: pablomouramarins@gmail.com
+  - 🏖️ Fun fact: I live in Rio de Janeiro, but i live in the mountains.
+
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin--%2300EBEB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-marins-43298295/)
 <!--
 **PabloMarins/PabloMarins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

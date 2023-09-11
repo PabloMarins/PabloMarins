@@ -3,8 +3,6 @@
 Code lover,
   code learner.
   
-  - 🔭 I’m currently working on self projects HTML, CSS, JavaScript and Node.Js based.
-  - 🌱 I’m currently learning Jquery, Bootstrap, Mongo Db, React Js, Vue.js and Electron.
   - ⚡ Interested in technologies and Javascript frameworks. 
   - 📫 How to reach me: pablomouramarins@gmail.com
   - 🏖️ Fun fact: I live in Rio de Janeiro, but i live in the mountains.

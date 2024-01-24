@@ -5,7 +5,6 @@ Code lover,
   
   - ⚡ Interested in technologies and Javascript frameworks. 
   - 📫 How to reach me: pablomouramarins@gmail.com
-  - 🏖️ Fun fact: I live in Rio de Janeiro, but i live in the mountains.
 
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin--%2300EBEB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-marins-43298295/)
 <!--

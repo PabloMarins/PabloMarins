@@ -25,14 +25,14 @@ I build and ship full stack products at [Alphacode IT Solutions](https://www.lin
 
 ### 🚀 Projects
 
-<!-- Fill in with your AI/Python projects. Keep one line each; swap the status when a demo goes live. -->
+<!-- Fill in with your AI/Python projects. Keep one line each; swap the status when a demo goes live. 
 
 | Project | What it does | Stack | Status |
 | --- | --- | --- | --- |
 | [**project-one**](https://github.com/PabloMarins/project-one) | One line on the problem it solves | Python · LLM APIs | 🚧 Demo coming soon |
 | [**project-two**](https://github.com/PabloMarins/project-two) | One line on the problem it solves | Python · RAG | 🚧 Demo coming soon |
 | [**project-three**](https://github.com/PabloMarins/project-three) | One line on the problem it solves | TypeScript · React | 🎬 Video demo |
-
+-->
 ### 🧰 Stack
 
 **Languages** &nbsp;

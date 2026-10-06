@@ -2,7 +2,7 @@
 
 **Full Stack Developer · LLM agents in production · E-commerce at scale**
 
-I build and ship full stack products at [Alphacode IT Solutions](https://www.linkedin.com/in/pablo-marins): B2B SaaS, a physician shift management platform and e-commerce for a B3-listed retail group. Lately my focus is **AI**: I've shipped an LLM agentic integration to production, and I'm going deep on **Python** for agents, RAG and evals.
+I build and ship full stack products at **Alphacode IT Solutions**: B2B SaaS, a physician shift management platform and e-commerce for a B3-listed retail group. Lately my focus is **AI**: I've shipped an LLM agentic integration to production, and I'm going deep on **Python** for agents, RAG and evals.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pablo--marins-0A66C2?style=flat-square)](https://www.linkedin.com/in/pablo-marins)
 [![Email](https://img.shields.io/badge/Email-pablomouramarins%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pablomouramarins@gmail.com)
@@ -21,18 +21,17 @@ I build and ship full stack products at [Alphacode IT Solutions](https://www.lin
 ### 🧪 Currently
 
 - 🐍 Studying **Python for AI**: agents, tool use, RAG and evaluation.
-- 🔨 Turning my personal AI projects into public demos. First ones landing soon.
+- 🌳 Building **Orchard**, a gamified exam-prep app with an LLM content pipeline, in daily use by real students.
+- 🔨 Preparing my RAG side project for a public release.
 
 ### 🚀 Projects
 
-<!-- Fill in with your AI/Python projects. Keep one line each; swap the status when a demo goes live. 
-
 | Project | What it does | Stack | Status |
 | --- | --- | --- | --- |
-| [**project-one**](https://github.com/PabloMarins/project-one) | One line on the problem it solves | Python · LLM APIs | 🚧 Demo coming soon |
-| [**project-two**](https://github.com/PabloMarins/project-two) | One line on the problem it solves | Python · RAG | 🚧 Demo coming soon |
-| [**project-three**](https://github.com/PabloMarins/project-three) | One line on the problem it solves | TypeScript · React | 🎬 Video demo |
--->
+| **Orchard** | Exam-prep web app where right answers grow an orchard. LLM-authored question banks gated by schemas and lint guardrails, served to a fully offline runtime | TypeScript · Vite · Zod · LLM pipeline · Cloudflare | 🔒 Private · demo on request |
+| **Dyno** | RAG over structured car specs: unknown models are acquired on the fly (public data → web → LLM) and stored with provenance | TypeScript · Postgres + pgvector · Ollama / OpenAI-compatible | 🚧 Public repo + video demo coming soon |
+| **recruiter-pipeline** | Read-only triage of recruiter messages: LLM extraction validated by schema, scored against a declared rubric | Python · Pydantic · MCP · SQLite | 🔒 Private |
+
 ### 🧰 Stack
 
 **Languages** &nbsp;
@@ -43,19 +42,29 @@ I build and ship full stack products at [Alphacode IT Solutions](https://www.lin
 
 **Front-end** &nbsp;
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)
 
 **Back-end & data** &nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![REST](https://img.shields.io/badge/REST-555555?style=flat-square)
 ![SOAP](https://img.shields.io/badge/SOAP-555555?style=flat-square)
 
+**Infra** &nbsp;
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
 **AI & commerce** &nbsp;
 ![LLM Agents](https://img.shields.io/badge/LLM_Agents-1d2b53?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG-1d2b53?style=flat-square)
+![pgvector](https://img.shields.io/badge/pgvector-1d2b53?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-1d2b53?style=flat-square)
 ![VTEX IO](https://img.shields.io/badge/VTEX_IO-F71963?style=flat-square)
 
 ---
